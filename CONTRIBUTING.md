@@ -15,11 +15,8 @@ Encantados de poder responder a todas tus dudas te dejamos nuestros canales ofic
 
 ## Documentación
 
-<<<<<<< HEAD
-=======
 Al momento de hacer tu solicitud de fusión recuerda actualizar la documentación, a continuación tienes un listado de recursos que te ayudarán:
 
->>>>>>> upstream/main
 * [README](https://www.makeareadme.com/)
 * [CHANGELOG](https://keepachangelog.com/es-ES/1.0.0/)
 * [Shields](https://shields.io/)
