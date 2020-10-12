@@ -12,4 +12,6 @@ y este proyecto se adhiere [Semantic Versioning](https://semver.org/spec/v2.0.0.
 
 - Entorno docker por [@alemelomeza](https://github.com/alemelomeza).
 
-- Endpoints de registro, autenticación, ingreso de datos e información de la aplicación por [@alemelomeza](https://github.com/alemelomeza).
+- Endpoints de registro, autenticación e ingreso de mediciones a la aplicación por [@alemelomeza](https://github.com/alemelomeza).
+
+- Persistencia para registro, autenticacion e ingreso de mediciones, además de configuración de variables de entorno por [@alemelomeza](https://github.com/alemelomeza).

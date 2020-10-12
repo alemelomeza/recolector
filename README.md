@@ -58,6 +58,15 @@ docker-compose -f docker-compose.yml -f docker-compose.dev.yml up -d
 # producción
 docker-compose up -d
 ```
+
+Configurar archivo de variables de entorno:
+
+```sh
+cp .env.example .env
+# generar key
+date +%s | sha256sum | base64 | head -c 32 ; echo
+```
+
 ## Uso
 
 Registro:
